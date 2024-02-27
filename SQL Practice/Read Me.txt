@@ -1,0 +1,11 @@
+Here I will be sharing my first SQL Practice as shown. 
+
+You would find the below as headlines what was done and created in the code: 
+
+* Connecting over my localhost and creating the database file
+
+* Creating varoius Tables and using a couple of methods inserting data into the tables
+
+* ALtering and editing in the tables content
+
+* Connecting the table with the 1 to 1 conncetion using the realtion of Foreign Key-Relationship. 
